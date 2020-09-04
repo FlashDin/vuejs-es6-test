@@ -45,7 +45,7 @@
     "vue-style-loader": "^1.0.0",
     "webpack": "^1.12.2",
     "webpack-dev-middleware": "^1.4.0",
-    "node-sass": "^3.8.0",
+    "node-sass": "^4.13.1",
     "sass-loader": "^3.2.2",
     "webpack-hot-middleware": "^2.6.0",
     "webpack-merge": "^0.14.0"
